@@ -1,7 +1,7 @@
-# Suleyman Ismayilov
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleyman-ismayilov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleyman-ismayilov/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)](https://sulikismaylovv.github.io/portfolio/)
 
 ---
 
@@ -29,6 +29,15 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+
+---
+
+## 🔧 Developer Tools:
+- **IDE**: VS Code, PyCharm, IntelliJ
+- **Version Control**: Git, GitHub, GitLab
+- **CI/CD**: GitHub Actions, Vercel, Google Cloud CI/CD
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase, Supabase
+- **Cloud Platforms**: Google Cloud, Firebase
 
 ---
 
